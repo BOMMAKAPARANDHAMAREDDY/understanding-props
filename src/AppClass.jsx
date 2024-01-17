@@ -5,7 +5,7 @@ import elephant from "./images/elephant.jpeg";
 export default class AppClass extends Component{
  
   // code here
-  render(){
+  render(props){
 
     return (
       <>
